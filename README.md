@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/joelbiju22" target="blank"><img src="https://img.shields.io/twitter/follow/joelbiju22?logo=twitter&style=for-the-badge" alt="joelbiju22" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently exploring **Flutter**
 
-- 💬 Ask me about **C++, Python, Web designing & development**
+- 💬 Ask me about **C++, Web Designing & Development**
 
 - 📫 How to reach me **joelbiju547@gmail.com**
 
-- ⚡ Fun fact **I play musical instrumentss**
+- ⚡ Fun fact **I play musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
