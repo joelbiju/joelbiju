@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/6c/bd/c4/6cbdc4e62a5bf777fa92ef237fa5d947.gif)](https://joelbiju.io)
 -->
 <h1 align="center">Hi 👋, I'm Joel Biju</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  alt="Coding" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelbiju&label=Profile%20views&color=0e75b6&style=flat" alt="joelbiju" /> </p>
