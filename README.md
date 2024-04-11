@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring **Flutter**
 
-- 💬 Ask me about **C++, Web Designing & Development**
+- 💬 Ask me about **Flutter App Development, Web Designing & Development**
 
 - 📫 How to reach me **joelbiju547@gmail.com**
 
