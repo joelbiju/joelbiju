@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **joelbiju547@gmail.com**
 
-- ⚡ Fun fact **I play musical instruments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
